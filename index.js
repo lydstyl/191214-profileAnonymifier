@@ -1,11 +1,11 @@
+const dotenv = require('dotenv');
+dotenv.config();
+
 const fs = require('fs');
 const path = require('path');
-const dotenv = require('dotenv');
 const scrapedin = require('scrapedin');
 const PizZip = require('pizzip');
 const Docxtemplater = require('docxtemplater');
-
-const jsonProfile = `./profiles/${process.env.PROFIL}.json`;
 
 function scrapeProfileAndMakeResume() {
   if (fs.existsSync(jsonProfile)) {
@@ -16,7 +16,7 @@ function scrapeProfileAndMakeResume() {
       password: process.env.PASSWORD
     })
       .then(profileScraper =>
-        profileScraper(`https://www.linkedin.com/in/${process.env.PROFIL}/`)
+        profileScraper(`https://www.linkedin.com/in/${process.env.PROFILE}/`)
       )
       .then(profile => {
         fs.writeFile(jsonProfile, JSON.stringify(profile, null, 2), writeDocx);
@@ -35,19 +35,23 @@ function writeDocx() {
   const doc = new Docxtemplater();
   doc.loadZip(zip);
 
-  // console.log(profile.educations);
-
   doc.setData({
     name: profile.profileAlternative.name || 'CV',
-    headline: profile.profileAlternative.headline,
-    description: profile.profile.summary,
+    headline: profile.profileAlternative.headline || '',
+    description: profile.profile.summary || '',
     skills: profile.skills,
     experiences: profile.positions.map(xp => ({
-      begin: xp.date1 ? xp.date1 : '',
-      job: xp.title,
-      company: xp.companyName
+      begin: xp.date1 || '',
+      job: xp.title || '',
+      company: xp.companyName || ''
     })),
-    educations: profile.educations
+    educations: profile.educations.map(ed => ({
+      date1: ed.date1 || '',
+      date2: ed.date2 || '',
+      title: ed.title || '',
+      degree: ed.degree || '',
+      fieldofstudy: ed.fieldofstudy || ''
+    }))
   });
 
   try {
@@ -74,12 +78,11 @@ function writeDocx() {
   const buf = doc.getZip().generate({ type: 'nodebuffer' });
 
   fs.writeFileSync(
-    path.resolve(__dirname, `./profiles/${process.env.PROFIL}.docx`),
+    path.resolve(__dirname, `./profiles/${process.env.PROFILE}.docx`),
     buf
   );
   console.log('finish');
 }
 
-dotenv.config();
-
+const jsonProfile = `./profiles/${process.env.PROFILE}.json`;
 scrapeProfileAndMakeResume();

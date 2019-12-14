@@ -2,15 +2,14 @@
 
 1/ Create a .env file in the root folder
 
-It must contain your Linkdein email, password and the profile name (the profil name in the public profile url) like so :
+It must contain your Linkdein email and password like so :
 
 EMAIL='your@mail.com'
 PASSWORD='your password'
-PROFIL='gabrielbrun'
 
 2/ npm i
 
-3/ npm start
+3/ PROFILE='profileId' npm start (you get the profileId from the public profile url)
 
 4/ you should now have your Word .docx in the profiles folder
 
