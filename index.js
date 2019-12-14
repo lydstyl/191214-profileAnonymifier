@@ -35,7 +35,7 @@ function writeDocx() {
   const doc = new Docxtemplater();
   doc.loadZip(zip);
 
-  console.log(profile.educations);
+  // console.log(profile.educations);
 
   doc.setData({
     name: profile.profileAlternative.name || 'CV',
