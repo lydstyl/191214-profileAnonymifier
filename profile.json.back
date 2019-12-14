@@ -1,0 +1,237 @@
+{
+  "contact": {},
+  "profileAlternative": {
+    "name": "Ignorer l’invite À l’écoute d’opportunités\n\nIndiquez aux recruteurs que vous êtes à l’écoute des opportunités d’emploi – vous contrôlez qui peut voir ceci.\n\nCommencer",
+    "headline": "Développeur React.js",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHnYrk8fffMFw/profile-displayphoto-shrink_200_200/0?e=1581552000&v=beta&t=6OngBkofRaLD7Gpt5PYOfUflr-oZpTBU6iexvpcXFwQ",
+    "summary": "Je suis à l'écoute d'une mission en React.js uniquement dans le nord ou en remote et à temps partiel pour la fin d'année 2019.\n\nMon CV et Portfolio : www.developpeur-react-nord.com"
+  },
+  "aboutAlternative": {
+    "text": "Je suis à l'écoute d'une mission en React.js uniquement dans le nord ou en remote et à temps partiel pour la fin d'année 2019.\n\nMon CV et Portfolio : www.developpeur-react-nord.com"
+  },
+  "positions": [
+    {
+      "title": "Développeur React.js",
+      "companyName": "Indépendant",
+      "location": "Région de Lille, France",
+      "date1": "juil. 2019 – Aujourd’hui",
+      "date2": "6 mois"
+    },
+    {
+      "title": "Développeur Salesforce Commerce Cloud",
+      "companyName": "altima°",
+      "location": "Roubaix",
+      "description": "Contribuer à la création et à l'évolution des sites BASH et BABYLISS :\n- Développer en front-end (CSS, Javascript)\n- Développer en back-end (Demandware / Sales Force Commerce Cloud qui est similaire à Javascript)",
+      "date1": "juin 2017 – juin 2019",
+      "date2": "2 ans 1 mois"
+    },
+    {
+      "title": "Ingénieur Logiciel",
+      "companyName": "Capgemini",
+      "location": "Région de Lille, France",
+      "description": "- Utiliser la technologie Demandware / Sales Force Commerce Cloud\n- Résoudre des tickets (TMA) sur des sites de e-commerce (Pimkie, Cassis, Paprika)\n- Utiliser Bitbucket, Sourcetree et Visual Studio Team Services\n- Corriger des bugs en Javascript\n- Modifier des templates front responsives\n- Utiliser SaaS, LESS et gulp.js\n- Créer et réaliser des tests fonctionnels (Total, Oney Bank)\n…\nvoir plus",
+      "date1": "févr. 2017 – juin 2017",
+      "date2": "5 mois"
+    },
+    {
+      "title": "Développeur web",
+      "companyName": "M2i Formation professionnalisante",
+      "description": "A l'issue de ce stage, le Développeur Full-Stack est en mesure de maîtriser les principales technologies et les principaux langages de programmation actuellement utilisés afin d'intervenir à la fois sur le Front-End et le Back-End des sites internet et/ou applications. Ses points forts seront la diversité de ses compétences et ses capacités d'adaptation. La formation permettra également de développer le savoir-être et le sens du service en entreprise.\n…\nvoir plus",
+      "date1": "oct. 2016 – févr. 2017",
+      "date2": "5 mois"
+    },
+    {
+      "title": "Customer Service Assistant",
+      "companyName": "DSV",
+      "location": "Lesquin",
+      "description": "- Manage transport of goods for the cosmetic company ELISABETH ARDEN.\n- Inform and assist hauliers and customers.",
+      "date1": "juil. 2016 – sept. 2016",
+      "date2": "3 mois"
+    },
+    {
+      "title": "Commercial assistant",
+      "companyName": "EDF",
+      "description": "- Make estimates / contracts (software Cloé).\n- Phone or email customers.\n- Inform, answer and assist customers.",
+      "date1": "oct. 2015 – juin 2016",
+      "date2": "9 mois"
+    },
+    {
+      "title": "Export manager",
+      "companyName": "SUPER DIET",
+      "description": "- Manage relationships with customers, freight forwarders and carriers in French, English and Spanish.\n- Follow orders from SAP input until delivery via litigation management and billing (turnover about 200 000 € per month).\n- Organize transportations of the goods.\n- Manage shipping documents including shipping customs formalities.\n- Manage relationships with banks for documentary letter of credit.\n- Manage restocking and billing of off-set stocks.\n…\nvoir plus",
+      "date1": "juil. 2015 – sept. 2015",
+      "date2": "3 mois"
+    },
+    {
+      "title": "Commercial Assistant",
+      "companyName": "NOLLET LASER",
+      "description": "- Helps employees of an industrial sheet metal\n- Answer the phone, inform the customer, create an account, update databases, enter a sales order (using specifics databases and softwares) send an acknowledgment, a Proforma invoice or a delivery bill\n- Sort technical drawings, quotes and work orders\n- Manage non-conformities and credit notes\n- Send a purchase order\n- Manage transports\n…\nvoir plus",
+      "date1": "févr. 2014 – juin 2014",
+      "date2": "5 mois"
+    },
+    {
+      "title": "Logistics Employee",
+      "companyName": "TRENOIS DECAMPS",
+      "description": "- Print a preparation note\n- Receipt of the goods : handle, control quality and quantity (28 000 hardware and construction's references)\n- Sort and store, use a laser gun",
+      "date1": "nov. 2013 – janv. 2014",
+      "date2": "3 mois"
+    },
+    {
+      "title": "Business Creator, Restaurant's manager",
+      "companyName": "ALDENTE",
+      "description": "- Starting a business from a business plan\n- Prepare restaurant before the arrival of customers\n- Enter invoices with accounting software CEGID\n- Prospect in B to C and B to B\n- Sale\n…\nvoir plus",
+      "date1": "oct. 2009 – oct. 2013",
+      "date2": "4 ans 1 mois"
+    },
+    {
+      "title": "M2I FORMATION",
+      "companyName": "Nom du diplôme\nDéveloppeur Full-Stack",
+      "description": "Les fondamentaux du développement\n\nUML Analyse et concept, Méthode Agiles et Scrum, Gestion de projets, HTML5 et CSS3 et leurs API, Javascript et JQuery, Angular JS, Langage SQL\nPHP / My SQL\n\nInstallation d'un serveur, création de pages Web Dynamiques PHP avec REST, développement Web avancé, programmation objet, Symfony, Zend, Conception d'un site Web Wordpress\nJava Web\n\nJava, JavaSE, JavaEE, JSF 2, Hibernate"
+    },
+    {
+      "title": "University Institute of Technology of Roubaix",
+      "companyName": "Nom du diplôme\nThree-year University Degree in Purchasing Management",
+      "description": "Skills :\n- Define a procurement strategy ;\n- Explore and evaluate the upstream market ;\n- Define internal needs ;\n- Negotiate and monitor contracts ;\n- Manage costs and purchasing processes.\n\nMétiers possibles\n- Acheteur ;\n- Responsable des achats et gestion des stocks ;\n- Approvisionneur ;\n- Acheteur marketing ;"
+    },
+    {
+      "title": "University Institute of Technology of Valenciennes",
+      "companyName": "Nom du diplôme\nUniversity Institute of Technology in Marketing Techniques",
+      "description": "Theses courses develop skills in various fields such as marketing, sales, distribution, purchasing, communication.\nThe opportunities are numerous, diverse and promising."
+    },
+    {
+      "title": "Computer Institute and Enterprise (Sandwich Courses)",
+      "companyName": "Domaine d’études\nComputers",
+      "description": "Allowed me to work as a computer assistant at ALLIANCE OPTIQUE in Lille."
+    },
+    {
+      "title": "French Secondary School",
+      "companyName": "Nom du diplôme\nScientific French Secondary School diploma",
+      "description": "With Engineering Sciences option."
+    },
+    {
+      "title": "M2I"
+    }
+  ],
+  "educations": [
+    {
+      "title": "M2I FORMATION",
+      "degree": "Développeur Full-Stack",
+      "fieldofstudy": "Gestion du Web / multimédia et webmaster",
+      "date1": "2016",
+      "date2": "2017"
+    },
+    {},
+    {
+      "title": "University Institute of Technology of Roubaix",
+      "degree": "Three-year University Degree in Purchasing Management",
+      "fieldofstudy": "Achats, approvisionnement / acquisitions et gestion des contrats",
+      "date1": "2006",
+      "date2": "2007"
+    },
+    {
+      "title": "University Institute of Technology of Valenciennes",
+      "degree": "University Institute of Technology in Marketing Techniques",
+      "fieldofstudy": "Commerce international",
+      "date1": "2003",
+      "date2": "2005"
+    },
+    {
+      "title": "Computer Institute and Enterprise (Sandwich Courses)",
+      "degree": "Computers",
+      "fieldofstudy": "Computers",
+      "date1": "2002",
+      "date2": "2002"
+    },
+    {
+      "title": "French Secondary School",
+      "degree": "Scientific French Secondary School diploma"
+    },
+    {
+      "title": "M2I"
+    }
+  ],
+  "skills": [
+    {
+      "title": "JavaScript"
+    },
+    {
+      "title": "Node.js"
+    },
+    {
+      "title": "React.js"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "0",
+      "title": "cours",
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Anglais",
+        "Français"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/thomas-delattre-81248a14b/",
+      "text": "Développeur web"
+    },
+    {
+      "user": "https://www.linkedin.com/in/maroi-agrebi-76147a86/",
+      "text": "Docteur en informatique"
+    },
+    {
+      "user": "https://www.linkedin.com/in/carolineduytsche/",
+      "text": "Chargée de recrutement chez Econocom"
+    },
+    {
+      "user": "https://www.linkedin.com/in/hedi-mokhtar-73b688ba/",
+      "text": "Full Stack Software Engineer chez Sopra Steria"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jovanbienvenu/",
+      "text": "Développeur FullStack JS - ReactJS - Nodejs - GraphQL - Gatsby"
+    },
+    {
+      "user": "https://www.linkedin.com/in/groupe-odyssee-douaisis-02189b181/",
+      "text": "Convivialité, méthode, accompagnement = échanges, développement de réseau et business"
+    },
+    {
+      "user": "https://www.linkedin.com/in/fabien-fache-udon/",
+      "text": "Ingénieur étude et développement chez AbilDoc"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dylan-nakong/",
+      "text": "Projet industriel chez Sopra Steria"
+    },
+    {
+      "user": "https://www.linkedin.com/in/maxime-garcia-826b3a84/",
+      "text": "Technicien informatique chez Altran"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pietro-scrufari-367593113/",
+      "text": "Ancien étudiant POPSchool de la première année"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Ignorer l’invite À l’écoute d’opportunités\n\nIndiquez aux recruteurs que vous êtes à l’écoute des opportunités d’emploi – vous contrôlez qui peut voir ceci.\n\nCommencer",
+    "headline": "Développeur React.js",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHnYrk8fffMFw/profile-displayphoto-shrink_200_200/0?e=1581552000&v=beta&t=6OngBkofRaLD7Gpt5PYOfUflr-oZpTBU6iexvpcXFwQ",
+    "summary": "Je suis à l'écoute d'une mission en React.js uniquement dans le nord ou en remote et à temps partiel pour la fin d'année 2019.\n\nMon CV et Portfolio : www.developpeur-react-nord.com"
+  }
+}

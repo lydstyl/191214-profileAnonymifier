@@ -1,0 +1,17 @@
+{
+  "name": "191214-profileAnonymifier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "docxtemplater": "^3.15.2",
+    "pizzip": "^3.0.6",
+    "scrapedin": "^1.0.11"
+  }
+}

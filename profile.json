@@ -1,0 +1,286 @@
+{
+  "contact": {},
+  "profileAlternative": {
+    "name": "Elodie Battaire",
+    "headline": "UX - UI Designer chez Agence D I G",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQG-QX728TrjKg/profile-displayphoto-shrink_200_200/0?e=1581552000&v=beta&t=XDRbEE8fV8lQhL_9F1fUlFbjkjKpuUHffDfmyEFcwf8",
+    "location": "Valenciennes, Nord-Pas-de-Calais, France",
+    "connections": "343 relations",
+    "summary": "Passionnée par l’expérience utilisateur et le design d’interface, je suis aujourd’hui certifiée UX | UI DESIGNER."
+  },
+  "aboutAlternative": {
+    "text": "Passionnée par l’expérience utilisateur et le design d’interface, je suis aujourd’hui certifiée UX | UI DESIGNER."
+  },
+  "positions": [
+    {
+      "title": "Nom de l’entreprise\nAgence D I G",
+      "location": "Région de Lille, France",
+      "date1": "sept. 2019 – Aujourd’hui",
+      "date2": "4 mois",
+      "roles": [
+        {
+          "title": "UX / UI Designer - contrat pro",
+          "date1": "sept. 2019 – Aujourd’hui",
+          "date2": "4 mois",
+          "location": "Région de Lille, France"
+        },
+        {
+          "title": "UX Designer - stage",
+          "date1": "avr. 2019 – août 2019",
+          "date2": "5 mois",
+          "location": "Région de Lille, France"
+        }
+      ]
+    },
+    {
+      "title": "Développeuse web",
+      "companyName": "Running Care(PremedIT)",
+      "location": "Loos, Nord-Pas-de-Calais, France",
+      "description": "Stage\n\nWordPress",
+      "date1": "janv. 2018 – févr. 2018",
+      "date2": "2 mois"
+    },
+    {
+      "title": "Vendeuse",
+      "companyName": "mydesign",
+      "location": "Aulnoy-lez-Valenciennes",
+      "date1": "sept. 2016 – oct. 2016",
+      "date2": "2 mois"
+    },
+    {
+      "title": "Vendeuse",
+      "companyName": "Auchan",
+      "location": "Petite-Forêt",
+      "description": "14 semaines de stage pour la période de 2013 à 2015",
+      "date1": "2013 – 2015",
+      "date2": "2 ans"
+    },
+    {
+      "title": "Sciences U Lille - EFFICOM / EFAB",
+      "companyName": "Nom du diplôme\nLicence"
+    },
+    {
+      "title": "Ecole Webstart",
+      "companyName": "Domaine d’études\nUX - UI Design"
+    },
+    {
+      "title": "PopSchool",
+      "companyName": "Nom du diplôme\nTitre professionnel"
+    },
+    {
+      "title": "lycée du Pays de Condé",
+      "companyName": "Nom du diplôme\nformation"
+    },
+    {
+      "title": "lycée du Pays de Condé",
+      "companyName": "Nom du diplôme\nBTS"
+    },
+    {
+      "title": "lycée du Pays de Condé",
+      "companyName": "Nom du diplôme\nBaccalauréat",
+      "description": "option ressources humaines"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Sciences U Lille - EFFICOM / EFAB",
+      "degree": "Licence",
+      "fieldofstudy": "Design web",
+      "date1": "2019",
+      "date2": "2020"
+    },
+    {
+      "title": "Ecole Webstart",
+      "degree": "UX - UI Design",
+      "fieldofstudy": "UX - UI Design",
+      "date1": "2018",
+      "date2": "2019"
+    },
+    {
+      "title": "PopSchool",
+      "degree": "Titre professionnel",
+      "fieldofstudy": "Développement web",
+      "date1": "2017",
+      "date2": "2018"
+    },
+    {
+      "title": "lycée du Pays de Condé",
+      "degree": "formation",
+      "fieldofstudy": "Infographie",
+      "date1": "2015",
+      "date2": "2016"
+    },
+    {
+      "title": "lycée du Pays de Condé",
+      "degree": "BTS",
+      "fieldofstudy": "Management des Unités Commerciales",
+      "date1": "2013",
+      "date2": "2015"
+    },
+    {
+      "title": "lycée du Pays de Condé",
+      "degree": "Baccalauréat",
+      "fieldofstudy": "Sciences de la gestion",
+      "date1": "2010",
+      "date2": "2013"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Design d’expérience utilisateur (UED)"
+    },
+    {
+      "title": "Stratégie marketing"
+    },
+    {
+      "title": "Design d’interface utilisateur"
+    },
+    {
+      "title": "Gestion de projet"
+    },
+    {
+      "title": "Scrum"
+    },
+    {
+      "title": "Design graphique"
+    },
+    {
+      "title": "Wireframing"
+    },
+    {
+      "title": "Conception web"
+    },
+    {
+      "title": "Site web adaptatif"
+    },
+    {
+      "title": "Expérience utilisateur"
+    },
+    {
+      "title": "Adobe Illustrator",
+      "count": "4"
+    },
+    {
+      "title": "InDesign",
+      "count": "4"
+    },
+    {
+      "title": "HTML5",
+      "count": "4"
+    },
+    {
+      "title": "CSS3",
+      "count": "4"
+    },
+    {
+      "title": "Adobe Photoshop",
+      "count": "3"
+    },
+    {
+      "title": "Git",
+      "count": "3"
+    },
+    {
+      "title": "MySQL",
+      "count": "1"
+    },
+    {
+      "title": "Php",
+      "count": "1"
+    },
+    {
+      "title": "Ruby",
+      "count": "1"
+    },
+    {
+      "title": "Ruby on Rails",
+      "count": "1"
+    },
+    {
+      "title": "jQuery",
+      "count": "1"
+    },
+    {
+      "title": "JavaScript"
+    },
+    {
+      "title": "Twitter Bootstrap"
+    },
+    {
+      "title": "WordPress"
+    },
+    {
+      "title": "Prototype"
+    },
+    {
+      "title": "After Effects"
+    },
+    {
+      "title": "Management"
+    },
+    {
+      "title": "Blender",
+      "count": "4"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {}
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/timoth%C3%A9e-jezek-87132a160/",
+      "text": "Développeur Web chez Kreatic - tjezek.fr"
+    },
+    {
+      "user": "https://www.linkedin.com/in/florentine-pasbecq-5a892a187/",
+      "text": "Étudiante en Licence professionnelle E-commerce et Marketing numérique. À la recherche d'un stage de 3 mois."
+    },
+    {
+      "user": "https://www.linkedin.com/in/valeriya-godes/",
+      "text": "Graphiste, alternante communication - SGS France | Brand, UX/UI & web designer, Webmarketing and Social Media Manager"
+    },
+    {
+      "user": "https://www.linkedin.com/in/celeste-ducatillon-57551917a/",
+      "text": "Étudiante à la recherche d'un stage de 11 semaines en webmarketing / communication digitale"
+    },
+    {
+      "user": "https://www.linkedin.com/in/marina-blin-aa656b123/",
+      "text": "Consultante full stack et UI/UX designer chez Zenika"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tony-dam-bb214184/",
+      "text": "Développeur Web- UI/UX Designer chez flowbow"
+    },
+    {
+      "user": "https://www.linkedin.com/in/corentin-wauquier/",
+      "text": "Étudiant dans le domaine du marketing et du numérique"
+    },
+    {
+      "user": "https://www.linkedin.com/in/coralie-larpenteur-d%C3%A9velopeur/",
+      "text": "Consultante CRM Adobe Campaign chez LineUP 7"
+    },
+    {
+      "user": "https://www.linkedin.com/in/valentin-grimoux-design/",
+      "text": "Communication Manager chez EFICIA et étudiant UX/UI Design chez Webstart"
+    },
+    {
+      "user": "https://www.linkedin.com/in/thomas-beillard-69578752/",
+      "text": "Infographiste / Web designer"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Elodie Battaire",
+    "headline": "UX - UI Designer chez Agence D I G",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQG-QX728TrjKg/profile-displayphoto-shrink_200_200/0?e=1581552000&v=beta&t=XDRbEE8fV8lQhL_9F1fUlFbjkjKpuUHffDfmyEFcwf8",
+    "location": "Valenciennes, Nord-Pas-de-Calais, France",
+    "connections": "343 relations",
+    "summary": "Passionnée par l’expérience utilisateur et le design d’interface, je suis aujourd’hui certifiée UX | UI DESIGNER."
+  }
+}
