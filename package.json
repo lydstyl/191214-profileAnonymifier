@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "docxtemplater": "^3.15.2",
+    "docxtemplater": "^3.31.4",
     "dotenv": "^8.2.0",
     "pizzip": "^3.0.6",
     "scrapedin": "^1.0.11"
